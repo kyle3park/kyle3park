@@ -1,6 +1,6 @@
 # Hi there, I'm Kyle
 
-I'm a beginner programmer learning Python through [text you want to show](https://www.freecodecamp.org/kyle3park)
+I'm a beginner programmer learning Python through [freeCodeCamp](https://www.freecodecamp.org/kyle3park)
 
 ## What I'm learning
 - Python basics
