@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there, I'm Kyle
 
-<!--
-**kyle3park/kyle3park** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a beginner programmer learning Python through [text you want to show](https://www.freecodecamp.org/kyle3park)
 
-Here are some ideas to get you started:
+## What I'm learning
+- Python basics
+- Problem solving with code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+No projects yet. I'm still a beginner, but i have some ideas.
+
+## Contact
+[Gravatar](https://gravatar.com/atomicpuppye6c0dded8e)
